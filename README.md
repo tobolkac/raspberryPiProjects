@@ -1,4 +1,4 @@
-rasberryPiProjects
+raspberryPiProjects
 ==================
 
-Some Simple Rasberry Pi projects
+Some Simple Raspberry Pi projects
